@@ -1,7 +1,7 @@
 
 # Sistema GeraProvas
 
-Projeto de Sistema de cadastros, controle de questões e geração de provas em arquivos .PDF.
+Projeto acâdemico de Sistema de cadastro e controle de questões. E geração de provas em arquivos .PDF.
 
 ## Desenvolvedores
 
