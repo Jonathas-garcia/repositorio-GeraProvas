@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="imagens">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="src/|imagens/" kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="iText-5.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
