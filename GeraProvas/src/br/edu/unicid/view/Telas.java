@@ -287,10 +287,10 @@ public class Telas extends JFrame {
 		lblNomeDoProfessor.setBounds(560, 516, 214, 14);
 		getContentPane().add(lblNomeDoProfessor);
 
-		JLabel lblNewLabel_3 = new JLabel("New label");
-		lblNewLabel_3.setIcon(new ImageIcon("imagens/28.png"));
-		lblNewLabel_3.setBounds(514, 209, 260, 320);
-		getContentPane().add(lblNewLabel_3);
+//		JLabel lblNewLabel_3 = new JLabel("New label");
+//		lblNewLabel_3.setIcon(new ImageIcon("imagens/28.png"));
+//		lblNewLabel_3.setBounds(514, 209, 260, 320);
+//		getContentPane().add(lblNewLabel_3);
 
 		JButton atlAssunto = new JButton("");
 		atlAssunto.addActionListener(new ActionListener() {
