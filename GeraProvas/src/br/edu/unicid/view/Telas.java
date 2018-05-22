@@ -282,10 +282,10 @@ public class Telas extends JFrame {
 		mnProva.add(criar);
 		getContentPane().setLayout(null);
 
-		JLabel lblNomeDoProfessor = new JLabel("Bem-vindo Professor ");
-		lblNomeDoProfessor.setFont(new Font("Comic Sans MS", Font.ITALIC, 13));
-		lblNomeDoProfessor.setBounds(560, 516, 214, 14);
-		getContentPane().add(lblNomeDoProfessor);
+//		JLabel lblNomeDoProfessor = new JLabel("Bem-vindo Professor ");
+//		lblNomeDoProfessor.setFont(new Font("Comic Sans MS", Font.ITALIC, 13));
+//		lblNomeDoProfessor.setBounds(560, 516, 214, 14);
+//		getContentPane().add(lblNomeDoProfessor);
 
 //		JLabel lblNewLabel_3 = new JLabel("New label");
 //		lblNewLabel_3.setIcon(new ImageIcon("imagens/28.png"));
